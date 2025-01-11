@@ -40,8 +40,8 @@
 
 ## 📥 Installation
 
-1.Download the latest version from the Releases Page.
-2.Run the DopaStickr.exe file to start using the application.
+- Download the latest version from the Releases Page.
+- Run the DopaStickr.exe file to start using the application.
 
 ---
 
