@@ -5,7 +5,7 @@
 
 ---
 
-![DopaTxt in Action](https://github.com/dopacoding/DOPAtxt/blob/bb06d6e6cb503edb2bbc3b32e425713b2c5f7d0f/dopatxt1.PNG)
+![DopaTxt in Action](https://github.com/dopacoding/DopaStickr/blob/b385c44826b6f73c0188cbd0f67d570f42441fa8/Colorful%203d%20Business%20StartUp%20Growth%20Kit%20LinkedIn%20Video%20Ad.png)
 
 ---
 
