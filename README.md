@@ -24,7 +24,9 @@
 ---
 
 ## 🖼️ Screenshots
+![DopaTxt in Action](https://github.com/dopacoding/DopaStickr/blob/78c05b29c4bfe32e1d5581a65e0c84237eedf281/Capture.PNG)
 
+![DopaTxt in Action](https://github.com/dopacoding/DopaStickr/blob/78c05b29c4bfe32e1d5581a65e0c84237eedf281/Capture1.PNG)
 ---
 
 ## 💻 Requirements
